@@ -35,16 +35,15 @@
       </div>
       <ul dir="auto">
          <li>
-            <p dir="auto"><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about">About</a></p>
+            <p dir="auto"><a href="https://github.com/mohaamed1997/Data-Portfolio/blob/main/README.md#about">About</a></p>
          </li>
          <li>
-            <p dir="auto"><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects">Portfolio Projects</a></p>
+            <p dir="auto"><a href="https://github.com/mohaamed1997/Data-Portfolio/blob/main/README.md#portfolio-projects">Portfolio Projects</a></p>
             <ul dir="auto">
                <li>
-                  Python
+                  Web Scraping - Python
                   <ul dir="auto">
-                     <li><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie">Analyzing the Factors Contributing to the Success of a Movie</a></li>
-                     <li></li>
+                     <li><a href="https://github.com/mohaamed1997/Data-Portfolio/blob/main/README.md#Extracting data from Yalla koora website">Extracting data from Yalla koora website</a></li>
                   </ul>
                </li>
                <li>
@@ -60,19 +59,14 @@
                      <li><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis">Legendary Pokémon Analysis (Study Project)</a></li>
                   </ul>
                </li>
-               <li>Excel / Google Sheets</li>
-               <li>Tableau---&gt; <a href="https://public.tableau.com/app/profile/tianna.parris" rel="nofollow">go to Tableau..</a></li>
                <li>Power BI</li>
             </ul>
          </li>
          <li>
-            <p dir="auto"><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education">Education</a></p>
+            <p dir="auto"><a href="https://github.com/mohaamed1997/Data-Portfolio/blob/main/README.md#education">Education</a></p>
          </li>
          <li>
-            <p dir="auto"><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates">Certificates</a></p>
-         </li>
-         <li>
-            <p dir="auto"><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts">Contact</a></p>
+            <p dir="auto"><a href="https://github.com/mohaamed1997/Data-Portfolio/blob/main/README.md#contacts">Contact</a></p>
          </li>
       </ul>
       <div class="markdown-heading" dir="auto">
@@ -157,32 +151,10 @@
             </svg>
          </a>
       </div>
-      <p dir="auto">University of Colorado, Boulder:
-         Master of Science - MS, Data Science,
-         Dec 2022 - Dec 2024
+      <p dir="auto">Ain Shams University, Cairo
+         Bachelor Degree - Computer Science,
+         Sep 2015 - Aug 2019
       </p>
-      <p dir="auto">The University of the West Indies, Mona:
-         Bachelor's degree, Biochemistry and Molecular Biology,
-         2019 - 2022
-      </p>
-      <p dir="auto">Pre University School:
-         Associate's degree, Science and Mathematics,
-         2017 - 2019
-      </p>
-      <div class="markdown-heading" dir="auto">
-         <h2 tabindex="-1" class="heading-element" dir="auto">Certificates</h2>
-         <a id="user-content-certificates" class="anchor" aria-label="Permalink: Certificates" href="#certificates">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-               <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-            </svg>
-         </a>
-      </div>
-      <p dir="auto">The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):</p>
-      <ul dir="auto">
-         <li><a href="https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&amp;utm_medium=certificate&amp;utm_content=cert_image&amp;utm_campaign=sharing_cta&amp;utm_product=prof" rel="nofollow">Google Data Analytics Professional Certificate</a> (Sep 2022) (Coursera - Google)</li>
-         <li><a href="https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV" rel="nofollow">Tableau</a> (Oct 2022) (Coursera - University of California, Davis)</li>
-         <li><a href="https://coursera.org/share/a16ecd3de61dd794199c452586cba90c" rel="nofollow">Python for Data Science</a> (Feb 2023) (Coursera - University of Colorado Boulder)</li>
-      </ul>
       <div class="markdown-heading" dir="auto">
          <h2 tabindex="-1" class="heading-element" dir="auto">Contacts</h2>
          <a id="user-content-contacts" class="anchor" aria-label="Permalink: Contacts" href="#contacts">
@@ -192,8 +164,8 @@
          </a>
       </div>
       <ul dir="auto">
-         <li>LinkedIn: <a href="https://www.linkedin.com/in/tianna-parris-9b6823176/" rel="nofollow">@tiannaparris</a></li>
-         <li>Email: <a href="mailto:parristianna@yahoo.com">parristianna@yahoo.com</a></li>
+         <li>LinkedIn: <a href="https://www.linkedin.com/in/mohamedmmostafaa/" rel="nofollow">@MohamedMostafa</a></li>
+         <li>Email: <a href="mailto:mohamedmmostafaa@outlook.com">mohamedmmostafaa@outlook.com</a></li>
       </ul>
    </article>
 </div>
