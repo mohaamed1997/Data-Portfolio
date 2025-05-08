@@ -47,19 +47,12 @@
                   </ul>
                </li>
                <li>
-                  SQL
+                  Power BI
                   <ul dir="auto">
-                     <li><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration">Covid 19 Data Exploration</a></li>
+                     <li><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration">Emirates flights</a></li>
                      <li><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning">Nashville Housing Data Cleaning</a></li>
                   </ul>
-               </li>
-               <li>
-                  R
-                  <ul dir="auto">
-                     <li><a href="https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis">Legendary Pokémon Analysis (Study Project)</a></li>
-                  </ul>
-               </li>
-               <li>Power BI</li>
+               </li>     
             </ul>
          </li>
          <li>
@@ -119,7 +112,7 @@
       <p dir="auto"><strong>Skills:</strong> DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).</p>
       <p dir="auto"><strong>Technology:</strong> SQL Server</p>
       <div class="markdown-heading" dir="auto">
-         <h3 tabindex="-1" class="heading-element" dir="auto">Covid 19 Data Exploration</h3>
+         <h3 tabindex="-1" class="heading-element" dir="auto">Emirates flights</h3>
          <a id="user-content-covid-19-data-exploration" class="anchor" aria-label="Permalink: Covid 19 Data Exploration" href="#covid-19-data-exploration">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
@@ -127,9 +120,11 @@
          </a>
       </div>
       <p dir="auto"><strong>Code:</strong> <a href="https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql"><code>COVID Portfolio Project.sql</code></a></p>
-      <p dir="auto"><strong>Description:</strong> The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).</p>
-      <p dir="auto"><strong>Skills:</strong> Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types</p>
-      <p dir="auto"><strong>Technology:</strong> SQL Server</p>
+      <p dir="auto"><strong>Description:</strong> This Power BI dashboard presents a comprehensive overview of Emirates Airlines' operational and sales performance. It includes a custom landing page with interactive navigation buttons leading to two main sections:
+         Operations KPIs: Visualizes the most used airlines per flight, flight stopover distribution, and total flight durations per destination.
+         Sales KPIs: Highlights revenue distribution by class, seasonal trends in fares, booking source breakdown, and customer booking behavior over time.  </p>
+      <p dir="auto"><strong>Skills:</strong> Data modeling and transformation, DAX, KPI design and business insight visualization, Interactive dashboard creation, Report design and theming</p>
+      <p dir="auto"><strong>Technology:</strong> Power BI Desktop</p>
       <div class="markdown-heading" dir="auto">
          <h3 tabindex="-1" class="heading-element" dir="auto">Legendary Pokémon Analysis</h3>
          <a id="user-content-legendary-pokémon-analysis" class="anchor" aria-label="Permalink: Legendary Pokémon Analysis" href="#legendary-pokémon-analysis">
